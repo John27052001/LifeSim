@@ -2,6 +2,7 @@
 
 **LifeSim** is an interactive life simulation app that visualizes your possible life journey over the next 5 years — based on your choices, habits, and mindset. Inspired by storytelling, psychology, and real decision logic, it's built to help you explore "What if?" futures in a personal and meaningful way.
 
+The Live link is here: https://lifesim-qugnmxe3eafajbaulla6qi.streamlit.app/
 ---
 
 ## 🚀 Features
